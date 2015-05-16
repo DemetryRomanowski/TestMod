@@ -1,0 +1,48 @@
+[00:15:06] [main/INFO]: Logging in with username & password
+[00:15:09] [main/INFO]: Setting user: Zeoic
+[00:15:10] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:15:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TestMod
+[00:15:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:15:14] [Sound Library Loader/INFO]: Sound engine started
+[00:15:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:15:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TestMod
+[00:15:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:15:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:15:15] [Sound Library Loader/INFO]: Sound engine started
+[00:15:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[00:15:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:15:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:15:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:15:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:15:28] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:15:28] [Server thread/INFO]: Generating keypair
+[00:15:28] [Server thread/INFO]: Converting map!
+[00:15:28] [Server thread/INFO]: Scanning folders...
+[00:15:28] [Server thread/INFO]: Total conversion count is 0
+[00:15:29] [Server thread/INFO]: Preparing start region for level 0
+[00:15:30] [Server thread/INFO]: Preparing spawn area: 10%
+[00:15:31] [Server thread/INFO]: Preparing spawn area: 31%
+[00:15:32] [Server thread/INFO]: Preparing spawn area: 52%
+[00:15:33] [Server thread/INFO]: Preparing spawn area: 75%
+[00:15:34] [Server thread/INFO]: Preparing spawn area: 94%
+[00:15:34] [Server thread/INFO]: Changing view distance to 12, from 10
+[00:15:34] [Server thread/INFO]: Zeoic[local:E:d9514806] logged in with entity id 44 at (13.5, 62.0, 117.5)
+[00:15:34] [Server thread/INFO]: Zeoic joined the game
+[00:15:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim.splash
+[00:15:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[00:15:36] [Server thread/INFO]: Zeoic has just earned the achievement [Taking Inventory]
+[00:15:36] [Client thread/INFO]: [CHAT] Zeoic has just earned the achievement [Taking Inventory]
+[00:15:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[00:15:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[00:15:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[00:15:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
+[00:15:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[00:15:49] [Client thread/INFO]: Stopping!
+[00:15:49] [Server thread/INFO]: Stopping server
+[00:15:49] [Server thread/INFO]: Saving players
+[00:15:49] [Server thread/INFO]: Saving worlds
+[00:15:49] [Server thread/INFO]: Saving chunks for level 'test world'/Overworld
+[00:15:49] [Server thread/INFO]: Saving chunks for level 'test world'/Nether
+[00:15:49] [Server thread/INFO]: Saving chunks for level 'test world'/The End
+[00:15:49] [Client Shutdown Thread/INFO]: Stopping server
+[00:15:49] [Client Shutdown Thread/INFO]: Saving players
